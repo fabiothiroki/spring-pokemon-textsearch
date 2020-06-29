@@ -20,21 +20,21 @@ public class PokemonController {
 
     @RequestMapping("/migrate")
     String migrate() {
-//        if (repository.count() > 0) {
+        if (repository.count() > 0) {
             return "already migrated";
-//        }
+        }
 
-//        try {
-//            File file = new ClassPathResource("/pokemon.csv").getFile();
-//
-//            List<Pokemon> pokemons = PokemonReader.readFile(file);
-//            for (Pokemon pokemon : pokemons) {
-//                repository.save(pokemon);
-//            }
-//            return "success";
-//        } catch (Exception e){
-//            System.out.println("Unable to save pokemon: " + e.getMessage());
-//            return "error";
-//        }
+        try {
+            File file = new ClassPathResource("/pokemon.csv").getFile();
+
+            List<Pokemon> pokemons = PokemonReader.readFile(file);
+            for (Pokemon pokemon : pokemons) {
+                repository.save(pokemon);
+            }
+            return "success";
+        } catch (Exception e){
+            System.out.println("Unable to save pokemon: " + e.getMessage());
+            return "error";
+        }
     }
 }
