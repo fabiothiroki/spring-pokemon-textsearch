@@ -17,11 +17,9 @@ public class Pokemon {
     public Pokemon() {}
 
     public Pokemon(
-            final Long id,
             final String name,
             final String type1,
             final String type2) {
-        this.id = id;
         this.name = name;
         this.type1 = type1;
         this.type2 = type2;
