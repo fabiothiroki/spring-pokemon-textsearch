@@ -1,7 +1,8 @@
 package com.example.demo.pokemon;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.util.ResourceUtils;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.ResourceLoader;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -17,6 +18,9 @@ public class PokemonController {
     @Autowired
     private PokemonRepository repository;
 
+    @Autowired
+    private ResourceLoader resourceLoader;
+
     @GetMapping(value = "/{id}")
     public Pokemon findById(@PathVariable("id") Long id) {
         return repository.findById(id).orElse(null);
@@ -29,7 +33,7 @@ public class PokemonController {
         }
 
         try {
-            File file = ResourceUtils.getFile("classpath:pokemon.csv");
+            File file = resourceLoader.getResource("classpath:pokemon.csv").getFile();
 
             List<Pokemon> pokemons = PokemonReader.readFile(file);
             for (Pokemon pokemon : pokemons) {
