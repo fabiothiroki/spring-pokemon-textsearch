@@ -1,7 +1,7 @@
 package com.example.demo.pokemon;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.ClassPathResource;
+import org.springframework.util.ResourceUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -29,7 +29,7 @@ public class PokemonController {
         }
 
         try {
-            File file = new ClassPathResource("/pokemon.csv").getFile();
+            File file = ResourceUtils.getFile("classpath:pokemon.csv");
 
             List<Pokemon> pokemons = PokemonReader.readFile(file);
             for (Pokemon pokemon : pokemons) {
