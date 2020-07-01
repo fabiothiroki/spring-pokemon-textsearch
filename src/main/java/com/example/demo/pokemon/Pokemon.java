@@ -11,7 +11,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "pokemon")
-@JsonPropertyOrder({ "name", "type1", "type2" })
+@JsonPropertyOrder({ "name", "type1", "type2", "description" })
 public class Pokemon {
 
     public Pokemon() {}
@@ -19,10 +19,12 @@ public class Pokemon {
     public Pokemon(
             final String name,
             final String type1,
-            final String type2) {
+            final String type2,
+            final String description) {
         this.name = name;
         this.type1 = type1;
         this.type2 = type2;
+        this.description = description;
     }
 
     @Id
@@ -37,4 +39,7 @@ public class Pokemon {
 
     @Column
     public String type2;
+
+    @Column
+    public String description;
 }

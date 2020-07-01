@@ -1,809 +1,809 @@
-bulbasaur,Grass,Poison
-ivysaur,Grass,Poison
-venusaur,Grass,Poison
-charmander,Fire,
-charmeleon,Fire,
-charizard,Fire,Flying
-squirtle,Water,
-wartortle,Water,
-blastoise,Water,
-caterpie,Bug,
-metapod,Bug,
-butterfree,Bug,Flying
-weedle,Bug,Poison
-kakuna,Bug,Poison
-beedrill,Bug,Poison
-pidgey,Normal,Flying
-pidgeotto,Normal,Flying
-pidgeot,Normal,Flying
-rattata,Normal,
-raticate,Normal,
-spearow,Normal,Flying
-fearow,Normal,Flying
-ekans,Poison,
-arbok,Poison,
-pikachu,Electric,
-raichu,Electric,
-sandshrew,Ground,
-sandslash,Ground,
-nidoran-f,Poison,
-nidorina,Poison,
-nidoqueen,Poison,Ground
-nidoran-m,Poison,
-nidorino,Poison,
-nidoking,Poison,Ground
-clefairy,Fairy,
-clefable,Fairy,
-vulpix,Fire,
-ninetales,Fire,
-jigglypuff,Normal,Fairy
-wigglytuff,Normal,Fairy
-zubat,Poison,Flying
-golbat,Poison,Flying
-oddish,Grass,Poison
-gloom,Grass,Poison
-vileplume,Grass,Poison
-paras,Bug,Grass
-parasect,Bug,Grass
-venonat,Bug,Poison
-venomoth,Bug,Poison
-diglett,Ground,
-dugtrio,Ground,
-meowth,Normal,
-persian,Normal,
-psyduck,Water,
-golduck,Water,
-mankey,Fighting,
-primeape,Fighting,
-growlithe,Fire,
-arcanine,Fire,
-poliwag,Water,
-poliwhirl,Water,
-poliwrath,Water,Fighting
-abra,Psychic,
-kadabra,Psychic,
-alakazam,Psychic,
-machop,Fighting,
-machoke,Fighting,
-machamp,Fighting,
-bellsprout,Grass,Poison
-weepinbell,Grass,Poison
-victreebel,Grass,Poison
-tentacool,Water,Poison
-tentacruel,Water,Poison
-geodude,Rock,Ground
-graveler,Rock,Ground
-golem,Rock,Ground
-ponyta,Fire,
-rapidash,Fire,
-slowpoke,Water,Psychic
-slowbro,Water,Psychic
-magnemite,Electric,Steel
-magneton,Electric,Steel
-farfetchd,Normal,Flying
-doduo,Normal,Flying
-dodrio,Normal,Flying
-seel,Water,
-dewgong,Water,Ice
-grimer,Poison,
-muk,Poison,
-shellder,Water,
-cloyster,Water,Ice
-gastly,Ghost,Poison
-haunter,Ghost,Poison
-gengar,Ghost,Poison
-onix,Rock,Ground
-drowzee,Psychic,
-hypno,Psychic,
-krabby,Water,
-kingler,Water,
-voltorb,Electric,
-electrode,Electric,
-exeggcute,Grass,Psychic
-exeggutor,Grass,Psychic
-cubone,Ground,
-marowak,Ground,
-hitmonlee,Fighting,
-hitmonchan,Fighting,
-lickitung,Normal,
-koffing,Poison,
-weezing,Poison,
-rhyhorn,Ground,Rock
-rhydon,Ground,Rock
-chansey,Normal,
-tangela,Grass,
-kangaskhan,Normal,
-horsea,Water,
-seadra,Water,
-goldeen,Water,
-seaking,Water,
-staryu,Water,
-starmie,Water,Psychic
-mr-mime,Psychic,Fairy
-scyther,Bug,Flying
-jynx,Ice,Psychic
-electabuzz,Electric,
-magmar,Fire,
-pinsir,Bug,
-tauros,Normal,
-magikarp,Water,
-gyarados,Water,Flying
-lapras,Water,Ice
-ditto,Normal,
-eevee,Normal,
-vaporeon,Water,
-jolteon,Electric,
-flareon,Fire,
-porygon,Normal,
-omanyte,Rock,Water
-omastar,Rock,Water
-kabuto,Rock,Water
-kabutops,Rock,Water
-aerodactyl,Rock,Flying
-snorlax,Normal,
-articuno,Ice,Flying
-zapdos,Electric,Flying
-moltres,Fire,Flying
-dratini,Dragon,
-dragonair,Dragon,
-dragonite,Dragon,Flying
-mewtwo,Psychic,
-mew,Psychic,
-chikorita,Grass,
-bayleef,Grass,
-meganium,Grass,
-cyndaquil,Fire,
-quilava,Fire,
-typhlosion,Fire,
-totodile,Water,
-croconaw,Water,
-feraligatr,Water,
-sentret,Normal,
-furret,Normal,
-hoothoot,Normal,Flying
-noctowl,Normal,Flying
-ledyba,Bug,Flying
-ledian,Bug,Flying
-spinarak,Bug,Poison
-ariados,Bug,Poison
-crobat,Poison,Flying
-chinchou,Water,Electric
-lanturn,Water,Electric
-pichu,Electric,
-cleffa,Fairy,
-igglybuff,Normal,Fairy
-togepi,Fairy,
-togetic,Fairy,Flying
-natu,Psychic,Flying
-xatu,Psychic,Flying
-mareep,Electric,
-flaaffy,Electric,
-ampharos,Electric,
-bellossom,Grass,
-marill,Water,Fairy
-azumarill,Water,Fairy
-sudowoodo,Rock,
-politoed,Water,
-hoppip,Grass,Flying
-skiploom,Grass,Flying
-jumpluff,Grass,Flying
-aipom,Normal,
-sunkern,Grass,
-sunflora,Grass,
-yanma,Bug,Flying
-wooper,Water,Ground
-quagsire,Water,Ground
-espeon,Psychic,
-umbreon,Dark,
-murkrow,Dark,Flying
-slowking,Water,Psychic
-misdreavus,Ghost,
-unown,Psychic,
-wobbuffet,Psychic,
-girafarig,Normal,Psychic
-pineco,Bug,
-forretress,Bug,Steel
-dunsparce,Normal,
-gligar,Ground,Flying
-steelix,Steel,Ground
-snubbull,Fairy,
-granbull,Fairy,
-qwilfish,Water,Poison
-scizor,Bug,Steel
-shuckle,Bug,Rock
-heracross,Bug,Fighting
-sneasel,Dark,Ice
-teddiursa,Normal,
-ursaring,Normal,
-slugma,Fire,
-magcargo,Fire,Rock
-swinub,Ice,Ground
-piloswine,Ice,Ground
-corsola,Water,Rock
-remoraid,Water,
-octillery,Water,
-delibird,Ice,Flying
-mantine,Water,Flying
-skarmory,Steel,Flying
-houndour,Dark,Fire
-houndoom,Dark,Fire
-kingdra,Water,Dragon
-phanpy,Ground,
-donphan,Ground,
-porygon2,Normal,
-stantler,Normal,
-smeargle,Normal,
-tyrogue,Fighting,
-hitmontop,Fighting,
-smoochum,Ice,Psychic
-elekid,Electric,
-magby,Fire,
-miltank,Normal,
-blissey,Normal,
-raikou,Electric,
-entei,Fire,
-suicune,Water,
-larvitar,Rock,Ground
-pupitar,Rock,Ground
-tyranitar,Rock,Dark
-lugia,Psychic,Flying
-ho-oh,Fire,Flying
-celebi,Psychic,Grass
-treecko,Grass,
-grovyle,Grass,
-sceptile,Grass,
-torchic,Fire,
-combusken,Fire,Fighting
-blaziken,Fire,Fighting
-mudkip,Water,
-marshtomp,Water,Ground
-swampert,Water,Ground
-poochyena,Dark,
-mightyena,Dark,
-zigzagoon,Normal,
-linoone,Normal,
-wurmple,Bug,
-silcoon,Bug,
-beautifly,Bug,Flying
-cascoon,Bug,
-dustox,Bug,Poison
-lotad,Water,Grass
-lombre,Water,Grass
-ludicolo,Water,Grass
-seedot,Grass,
-nuzleaf,Grass,Dark
-shiftry,Grass,Dark
-taillow,Normal,Flying
-swellow,Normal,Flying
-wingull,Water,Flying
-pelipper,Water,Flying
-ralts,Psychic,Fairy
-kirlia,Psychic,Fairy
-gardevoir,Psychic,Fairy
-surskit,Bug,Water
-masquerain,Bug,Flying
-shroomish,Grass,
-breloom,Grass,Fighting
-slakoth,Normal,
-vigoroth,Normal,
-slaking,Normal,
-nincada,Bug,Ground
-ninjask,Bug,Flying
-shedinja,Bug,Ghost
-whismur,Normal,
-loudred,Normal,
-exploud,Normal,
-makuhita,Fighting,
-hariyama,Fighting,
-azurill,Normal,Fairy
-nosepass,Rock,
-skitty,Normal,
-delcatty,Normal,
-sableye,Dark,Ghost
-mawile,Steel,Fairy
-aron,Steel,Rock
-lairon,Steel,Rock
-aggron,Steel,Rock
-meditite,Fighting,Psychic
-medicham,Fighting,Psychic
-electrike,Electric,
-manectric,Electric,
-plusle,Electric,
-minun,Electric,
-volbeat,Bug,
-illumise,Bug,
-roselia,Grass,Poison
-gulpin,Poison,
-swalot,Poison,
-carvanha,Water,Dark
-sharpedo,Water,Dark
-wailmer,Water,
-wailord,Water,
-numel,Fire,Ground
-camerupt,Fire,Ground
-torkoal,Fire,
-spoink,Psychic,
-grumpig,Psychic,
-spinda,Normal,
-trapinch,Ground,
-vibrava,Ground,Dragon
-flygon,Ground,Dragon
-cacnea,Grass,
-cacturne,Grass,Dark
-swablu,Normal,Flying
-altaria,Dragon,Flying
-zangoose,Normal,
-seviper,Poison,
-lunatone,Rock,Psychic
-solrock,Rock,Psychic
-barboach,Water,Ground
-whiscash,Water,Ground
-corphish,Water,
-crawdaunt,Water,Dark
-baltoy,Ground,Psychic
-claydol,Ground,Psychic
-lileep,Rock,Grass
-cradily,Rock,Grass
-anorith,Rock,Bug
-armaldo,Rock,Bug
-feebas,Water,
-milotic,Water,
-castform,Normal,
-kecleon,Normal,
-shuppet,Ghost,
-banette,Ghost,
-duskull,Ghost,
-dusclops,Ghost,
-tropius,Grass,Flying
-chimecho,Psychic,
-absol,Dark,
-wynaut,Psychic,
-snorunt,Ice,
-glalie,Ice,
-spheal,Ice,Water
-sealeo,Ice,Water
-walrein,Ice,Water
-clamperl,Water,
-huntail,Water,
-gorebyss,Water,
-relicanth,Water,Rock
-luvdisc,Water,
-bagon,Dragon,
-shelgon,Dragon,
-salamence,Dragon,Flying
-beldum,Steel,Psychic
-metang,Steel,Psychic
-metagross,Steel,Psychic
-regirock,Rock,
-regice,Ice,
-registeel,Steel,
-latias,Dragon,Psychic
-latios,Dragon,Psychic
-kyogre,Water,
-groudon,Ground,
-rayquaza,Dragon,Flying
-jirachi,Steel,Psychic
-deoxys-normal,Psychic,
-turtwig,Grass,
-grotle,Grass,
-torterra,Grass,Ground
-chimchar,Fire,
-monferno,Fire,Fighting
-infernape,Fire,Fighting
-piplup,Water,
-prinplup,Water,
-empoleon,Water,Steel
-starly,Normal,Flying
-staravia,Normal,Flying
-staraptor,Normal,Flying
-bidoof,Normal,
-bibarel,Normal,Water
-kricketot,Bug,
-kricketune,Bug,
-shinx,Electric,
-luxio,Electric,
-luxray,Electric,
-budew,Grass,Poison
-roserade,Grass,Poison
-cranidos,Rock,
-rampardos,Rock,
-shieldon,Rock,Steel
-bastiodon,Rock,Steel
-burmy,Bug,
-wormadam-plant,Bug,Grass
-mothim,Bug,Flying
-combee,Bug,Flying
-vespiquen,Bug,Flying
-pachirisu,Electric,
-buizel,Water,
-floatzel,Water,
-cherubi,Grass,
-cherrim,Grass,
-shellos,Water,
-gastrodon,Water,Ground
-ambipom,Normal,
-drifloon,Ghost,Flying
-drifblim,Ghost,Flying
-buneary,Normal,
-lopunny,Normal,
-mismagius,Ghost,
-honchkrow,Dark,Flying
-glameow,Normal,
-purugly,Normal,
-chingling,Psychic,
-stunky,Poison,Dark
-skuntank,Poison,Dark
-bronzor,Steel,Psychic
-bronzong,Steel,Psychic
-bonsly,Rock,
-mime-jr,Psychic,Fairy
-happiny,Normal,
-chatot,Normal,Flying
-spiritomb,Ghost,Dark
-gible,Dragon,Ground
-gabite,Dragon,Ground
-garchomp,Dragon,Ground
-munchlax,Normal,
-riolu,Fighting,
-lucario,Fighting,Steel
-hippopotas,Ground,
-hippowdon,Ground,
-skorupi,Poison,Bug
-drapion,Poison,Dark
-croagunk,Poison,Fighting
-toxicroak,Poison,Fighting
-carnivine,Grass,
-finneon,Water,
-lumineon,Water,
-mantyke,Water,Flying
-snover,Grass,Ice
-abomasnow,Grass,Ice
-weavile,Dark,Ice
-magnezone,Electric,Steel
-lickilicky,Normal,
-rhyperior,Ground,Rock
-tangrowth,Grass,
-electivire,Electric,
-magmortar,Fire,
-togekiss,Fairy,Flying
-yanmega,Bug,Flying
-leafeon,Grass,
-glaceon,Ice,
-gliscor,Ground,Flying
-mamoswine,Ice,Ground
-porygon-z,Normal,
-gallade,Psychic,Fighting
-probopass,Rock,Steel
-dusknoir,Ghost,
-froslass,Ice,Ghost
-rotom,Electric,Ghost
-uxie,Psychic,
-mesprit,Psychic,
-azelf,Psychic,
-dialga,Steel,Dragon
-palkia,Water,Dragon
-heatran,Fire,Steel
-regigigas,Normal,
-giratina-altered,Ghost,Dragon
-cresselia,Psychic,
-phione,Water,
-manaphy,Water,
-darkrai,Dark,
-shaymin-land,Grass,
-arceus,Normal,
-victini,Psychic,Fire
-snivy,Grass,
-servine,Grass,
-serperior,Grass,
-tepig,Fire,
-pignite,Fire,Fighting
-emboar,Fire,Fighting
-oshawott,Water,
-dewott,Water,
-samurott,Water,
-patrat,Normal,
-watchog,Normal,
-lillipup,Normal,
-herdier,Normal,
-stoutland,Normal,
-purrloin,Dark,
-liepard,Dark,
-pansage,Grass,
-simisage,Grass,
-pansear,Fire,
-simisear,Fire,
-panpour,Water,
-simipour,Water,
-munna,Psychic,
-musharna,Psychic,
-pidove,Normal,Flying
-tranquill,Normal,Flying
-unfezant,Normal,Flying
-blitzle,Electric,
-zebstrika,Electric,
-roggenrola,Rock,
-boldore,Rock,
-gigalith,Rock,
-woobat,Psychic,Flying
-swoobat,Psychic,Flying
-drilbur,Ground,
-excadrill,Ground,Steel
-audino,Normal,
-timburr,Fighting,
-gurdurr,Fighting,
-conkeldurr,Fighting,
-tympole,Water,
-palpitoad,Water,Ground
-seismitoad,Water,Ground
-throh,Fighting,
-sawk,Fighting,
-sewaddle,Bug,Grass
-swadloon,Bug,Grass
-leavanny,Bug,Grass
-venipede,Bug,Poison
-whirlipede,Bug,Poison
-scolipede,Bug,Poison
-cottonee,Grass,Fairy
-whimsicott,Grass,Fairy
-petilil,Grass,
-lilligant,Grass,
-basculin-red-striped,Water,
-sandile,Ground,Dark
-krokorok,Ground,Dark
-krookodile,Ground,Dark
-darumaka,Fire,
-darmanitan-standard,Fire,
-maractus,Grass,
-dwebble,Bug,Rock
-crustle,Bug,Rock
-scraggy,Dark,Fighting
-scrafty,Dark,Fighting
-sigilyph,Psychic,Flying
-yamask,Ghost,
-cofagrigus,Ghost,
-tirtouga,Water,Rock
-carracosta,Water,Rock
-archen,Rock,Flying
-archeops,Rock,Flying
-trubbish,Poison,
-garbodor,Poison,
-zorua,Dark,
-zoroark,Dark,
-minccino,Normal,
-cinccino,Normal,
-gothita,Psychic,
-gothorita,Psychic,
-gothitelle,Psychic,
-solosis,Psychic,
-duosion,Psychic,
-reuniclus,Psychic,
-ducklett,Water,Flying
-swanna,Water,Flying
-vanillite,Ice,
-vanillish,Ice,
-vanilluxe,Ice,
-deerling,Normal,Grass
-sawsbuck,Normal,Grass
-emolga,Electric,Flying
-karrablast,Bug,
-escavalier,Bug,Steel
-foongus,Grass,Poison
-amoonguss,Grass,Poison
-frillish,Water,Ghost
-jellicent,Water,Ghost
-alomomola,Water,
-joltik,Bug,Electric
-galvantula,Bug,Electric
-ferroseed,Grass,Steel
-ferrothorn,Grass,Steel
-klink,Steel,
-klang,Steel,
-klinklang,Steel,
-tynamo,Electric,
-eelektrik,Electric,
-eelektross,Electric,
-elgyem,Psychic,
-beheeyem,Psychic,
-litwick,Ghost,Fire
-lampent,Ghost,Fire
-chandelure,Ghost,Fire
-axew,Dragon,
-fraxure,Dragon,
-haxorus,Dragon,
-cubchoo,Ice,
-beartic,Ice,
-cryogonal,Ice,
-shelmet,Bug,
-accelgor,Bug,
-stunfisk,Ground,Electric
-mienfoo,Fighting,
-mienshao,Fighting,
-druddigon,Dragon,
-golett,Ground,Ghost
-golurk,Ground,Ghost
-pawniard,Dark,Steel
-bisharp,Dark,Steel
-bouffalant,Normal,
-rufflet,Normal,Flying
-braviary,Normal,Flying
-vullaby,Dark,Flying
-mandibuzz,Dark,Flying
-heatmor,Fire,
-durant,Bug,Steel
-deino,Dark,Dragon
-zweilous,Dark,Dragon
-hydreigon,Dark,Dragon
-larvesta,Bug,Fire
-volcarona,Bug,Fire
-cobalion,Steel,Fighting
-terrakion,Rock,Fighting
-virizion,Grass,Fighting
-tornadus-incarnate,Flying,
-thundurus-incarnate,Electric,Flying
-reshiram,Dragon,Fire
-zekrom,Dragon,Electric
-landorus-incarnate,Ground,Flying
-kyurem,Dragon,Ice
-keldeo-ordinary,Water,Fighting
-meloetta-aria,Normal,Psychic
-genesect,Bug,Steel
-chespin,Grass,
-quilladin,Grass,
-chesnaught,Grass,Fighting
-fennekin,Fire,
-braixen,Fire,
-delphox,Fire,Psychic
-froakie,Water,
-frogadier,Water,
-greninja,Water,Dark
-bunnelby,Normal,
-diggersby,Normal,Ground
-fletchling,Normal,Flying
-fletchinder,Fire,Flying
-talonflame,Fire,Flying
-scatterbug,Bug,
-spewpa,Bug,
-vivillon,Bug,Flying
-litleo,Fire,Normal
-pyroar,Fire,Normal
-flabebe,Fairy,
-floette,Fairy,
-florges,Fairy,
-skiddo,Grass,
-gogoat,Grass,
-pancham,Fighting,
-pangoro,Fighting,Dark
-furfrou,Normal,
-espurr,Psychic,
-meowstic-male,Psychic,
-honedge,Steel,Ghost
-doublade,Steel,Ghost
-aegislash-blade,Steel,Ghost
-spritzee,Fairy,
-aromatisse,Fairy,
-swirlix,Fairy,
-slurpuff,Fairy,
-inkay,Dark,Psychic
-malamar,Dark,Psychic
-binacle,Rock,Water
-barbaracle,Rock,Water
-skrelp,Poison,Water
-dragalge,Poison,Dragon
-clauncher,Water,
-clawitzer,Water,
-helioptile,Electric,Normal
-heliolisk,Electric,Normal
-tyrunt,Rock,Dragon
-tyrantrum,Rock,Dragon
-amaura,Rock,Ice
-aurorus,Rock,Ice
-sylveon,Fairy,
-hawlucha,Fighting,Flying
-dedenne,Electric,Fairy
-carbink,Rock,Fairy
-goomy,Dragon,
-sliggoo,Dragon,
-goodra,Dragon,
-klefki,Steel,Fairy
-phantump,Ghost,Grass
-trevenant,Ghost,Grass
-pumpkaboo-average,Ghost,Grass
-gourgeist-average,Ghost,Grass
-bergmite,Ice,
-avalugg,Ice,
-noibat,Flying,Dragon
-noivern,Flying,Dragon
-xerneas,Fairy,
-yveltal,Dark,Flying
-zygarde-50,Dragon,Ground
-diancie,Rock,Fairy
-hoopa-confined,Psychic,Ghost
-volcanion,Fire,Water
-rowlet,Grass,Flying
-dartrix,Grass,Flying
-decidueye,Grass,Ghost
-litten,Fire,
-torracat,Fire,
-incineroar,Fire,Dark
-popplio,Water,
-brionne,Water,
-primarina,Water,Fairy
-pikipek,Normal,Flying
-trumbeak,Normal,Flying
-toucannon,Normal,Flying
-yungoos,Normal,
-gumshoos,Normal,
-grubbin,Bug,
-charjabug,Bug,Electric
-vikavolt,Bug,Electric
-crabrawler,Fighting,
-crabominable,Fighting,Ice
-oricorio-baile,Fire,Flying
-cutiefly,Bug,Fairy
-ribombee,Bug,Fairy
-rockruff,Rock,
-lycanroc-midday,Rock,
-wishiwashi-solo,Water,
-mareanie,Poison,Water
-toxapex,Poison,Water
-mudbray,Ground,
-mudsdale,Ground,
-dewpider,Water,Bug
-araquanid,Water,Bug
-fomantis,Grass,
-lurantis,Grass,
-morelull,Grass,Fairy
-shiinotic,Grass,Fairy
-salandit,Poison,Fire
-salazzle,Poison,Fire
-stufful,Normal,Fighting
-bewear,Normal,Fighting
-bounsweet,Grass,
-steenee,Grass,
-tsareena,Grass,
-comfey,Fairy,
-oranguru,Normal,Psychic
-passimian,Fighting,
-wimpod,Bug,Water
-golisopod,Bug,Water
-sandygast,Ghost,Ground
-palossand,Ghost,Ground
-pyukumuku,Water,
-type-null,Normal,
-silvally,Normal,
-minior-meteor,Rock,Flying
-komala,Normal,
-turtonator,Fire,Dragon
-togedemaru,Electric,Steel
-mimikyu,Ghost,Fairy
-bruxish,Water,Psychic
-drampa,Normal,Dragon
-dhelmise,Ghost,Grass
-jangmo-o,Dragon,
-hakamo-o,Dragon,Fighting
-kommo-o,Dragon,Fighting
-tapu-koko,Electric,Fairy
-tapu-lele,Psychic,Fairy
-tapu-bulu,Grass,Fairy
-tapu-fini,Water,Fairy
-cosmog,Psychic,
-cosmoem,Psychic,
-solgaleo,Psychic,Steel
-lunala,Psychic,Ghost
-nihilego,Rock,Poison
-buzzwole,Bug,Fighting
-pheromosa,Bug,Fighting
-xurkitree,Electric,
-celesteela,Steel,Flying
-kartana,Grass,Steel
-guzzlord,Dark,Dragon
-necrozma,Psychic,
-magearna,Steel,Fairy
-marshadow,Fighting,Ghost
-poipole,Poison,
-naganadel,Poison,Dragon
-stakataka,Rock,Steel
-blacephalon,Fire,Ghost
-zeraora,Electric,
-meltan,Steel,
-melmetal,Steel,
+bulbasaur,Grass,Poison,"For some time after its birth, it grows by gaining nourishment from the seed on its back."
+ivysaur,Grass,Poison,"When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom."
+venusaur,Grass,Poison,"After a rainy day, the flower on its back smells stronger. The scent attracts other Pokemon."
+charmander,Fire,,"The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely."
+charmeleon,Fire,,"In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars."
+charizard,Fire,Flying,It is said that Charizards fire burns hotter if it has experienced harsh battles.
+squirtle,Water,,It shelters itself in its shell then strikes back with spouts of water at every opportunity.
+wartortle,Water,,"It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+blastoise,Water,,The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
+caterpie,Bug,,It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.
+metapod,Bug,,A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
+butterfree,Bug,Flying,It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.
+weedle,Bug,Poison,It eats its weight in leaves every day. It fends off attackers with the needle on its head.
+kakuna,Bug,Poison,"While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+beedrill,Bug,Poison,"Its best attack involves flying around at high speed, striking with poison needles, then flying off."
+pidgey,Normal,Flying,"It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+pidgeotto,Normal,Flying,"It flies over its wide territory in search of prey, downing it with its highly developed claws."
+pidgeot,Normal,Flying,"It flies over its wide territory in search of prey, downing it with its highly developed claws."
+rattata,Normal,,"It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime."
+raticate,Normal,,"With its long fangs, this surprisingly violent Pokemon can gnaw away even thick concrete with ease."
+spearow,Normal,Flying,"It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+fearow,Normal,Flying,It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.
+ekans,Poison,,It sneaks through grass without making a sound and strikes unsuspecting prey from behind.
+arbok,Poison,,The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.
+pikachu,Electric,,It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
+raichu,Electric,,"Its tail discharges electricity into the ground, protecting it from getting shocked."
+sandshrew,Ground,,"It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks."
+sandslash,Ground,,The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.
+nidoran-f,Poison,,"While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal."
+nidorina,Poison,,"When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorinos."
+nidoqueen,Poison,Ground,Its entire body is armored with hard scales. It will protect the young in its burrow with its life.
+nidoran-m,Poison,,It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.
+nidorino,Poison,,"It has a violent disposition and stabs foes with its horn, which oozes poison upon impact."
+nidoking,Poison,Ground,One swing of its mighty tail can snap a telephone pole as if it were a matchstick.
+clefairy,Fairy,,"On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float."
+clefable,Fairy,,"Their ears are sensitive enough to hear a pin drop from over a mile away, so theyre usually found in quiet places."
+vulpix,Fire,,"As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm."
+ninetales,Fire,,"Each of its nine tails is imbued with supernatural power, and it can live for a thousand years."
+jigglypuff,Normal,Fairy,"Looking into its cute, round eyes makes it start singing a song so pleasant listeners cant help but fall asleep."
+wigglytuff,Normal,Fairy,"Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away."
+zubat,Poison,Flying,"It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies."
+golbat,Poison,Flying,"Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood."
+oddish,Grass,Poison,It often plants its root feet in the ground during the day and sows seeds as it walks about at night.
+gloom,Grass,Poison,"The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away."
+vileplume,Grass,Poison,"Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+paras,Bug,Grass,Mushrooms named tochukaso grow on its back. They grow along with the host Paras.
+parasect,Bug,Grass,A mushroom grown larger than the hosts body controls Parasect. It scatters poisonous spores.
+venonat,Bug,Poison,"Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+venomoth,Bug,Poison,It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.
+diglett,Ground,,"A Pokemon that lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+dugtrio,Ground,,"Its three heads move alternately, driving it through tough soil to depths of over 60 miles."
+meowth,Normal,,"It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly."
+persian,Normal,,"A very haughty Pokemon. Among fans, the size of the jewel in its forehead is a topic of much talk."
+psyduck,Water,,"When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power."
+golduck,Water,,"When its forehead shines mysteriously, Golduck can use the full extent of its power."
+mankey,Fighting,,"It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason."
+primeape,Fighting,,"It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder."
+growlithe,Fire,,"Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town."
+arcanine,Fire,,"The sight of it running over 6,200 miles in a single day and night has captivated many people."
+poliwag,Water,,"Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+poliwhirl,Water,,The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.
+poliwrath,Water,Fighting,"With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting."
+abra,Psychic,,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+kadabra,Psychic,,It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.
+alakazam,Psychic,,The spoons clutched in its hands are said to have been created by its psychic powers.
+machop,Fighting,,"Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once."
+machoke,Fighting,,It happily carries heavy cargo to toughen up. It willingly does hard work for people.
+machamp,Fighting,,Its four muscled arms slam foes with powerful punches and chops at blinding speed.
+bellsprout,Grass,Poison,It prefers hot and humid environments. It is quick at capturing prey with its vines.
+weepinbell,Grass,Poison,A Pokemon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.
+victreebel,Grass,Poison,"It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything."
+tentacool,Water,Poison,"Because its body is almost entirely composed of water, it shrivels up if it is washed ashore."
+tentacruel,Water,Poison,It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.
+geodude,Rock,Ground,"At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily."
+graveler,Rock,Ground,"It rolls on mountain paths to move. Once it builds momentum, no Pokemon can stop it without difficulty."
+golem,Rock,Ground,"Even dynamite cant harm its hard, boulder-like body. It sheds its hide just once a year."
+ponyta,Fire,,"As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster."
+rapidash,Fire,,"When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance."
+slowpoke,Water,Psychic,"Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten."
+slowbro,Water,Psychic,"Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down."
+magnemite,Electric,Steel,"The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float."
+magneton,Electric,Steel,The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.
+farfetchd,Normal,Flying,It cant live without the stalk it holds. Thats why it defends the stalk from attackers with its life.
+doduo,Normal,Flying,The brains in its two heads appear to communicate emotions to each other with a telepathic power.
+dodrio,Normal,Flying,"When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph."
+seel,Water,,"The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice."
+dewgong,Water,Ice,"Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots."
+grimer,Poison,,"Born from sludge, these Pokemon now gather in polluted places and increase the bacteria in their bodies."
+muk,Poison,,"Its so stinky! Muks body contains toxic elements, and any plant will wilt when it passes by."
+shellder,Water,,It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.
+cloyster,Water,Ice,It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.
+gastly,Ghost,Poison,"Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+haunter,Ghost,Poison,It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.
+gengar,Ghost,Poison,The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.
+onix,Rock,Ground,"Opening its large mouth, it ingests massive amounts of soil and creates long tunnels."
+drowzee,Psychic,,It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.
+hypno,Psychic,,"Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up."
+krabby,Water,,It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.
+kingler,Water,,"The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim."
+voltorb,Electric,,It looks just like a Pok Ball. It is dangerous because it may electrocute or explode on contact.
+electrode,Electric,,It is known to drift on winds if it is bloated to bursting with stored electricity.
+exeggcute,Grass,Psychic,Its six eggs converse using telepathy. They can quickly gather if they become separated.
+exeggutor,Grass,Psychic,"It is called The Walking Jungle. If a head grows too big, it falls off and becomes an Exeggcute."
+cubone,Ground,,"When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+marowak,Ground,,"From its birth, this savage Pokemon constantly holds bones. It is skilled in using them as weapons."
+hitmonlee,Fighting,,Its legs can stretch double. First-time foes are startled by its extensible reach.
+hitmonchan,Fighting,,The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.
+lickitung,Normal,,"Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail."
+koffing,Poison,,"Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions."
+weezing,Poison,,Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.
+rhyhorn,Ground,Rock,"Its powerful tackles can destroy anything. However, it is too slow witted to help people work."
+rhydon,Ground,Rock,"Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however."
+chansey,Normal,,A kindly Pokemon that lays highly nutritious eggs and shares them with injured Pokmon or people.
+tangela,Grass,,"Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long."
+kangaskhan,Normal,,It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.
+horsea,Water,,"It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees."
+seadra,Water,,Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.
+goldeen,Water,,"Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn."
+seaking,Water,,"In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+staryu,Water,,"As long as its red core remains, it can regenerate its body instantly, even if its torn apart."
+starmie,Water,Psychic,Its core shines in many colors and sends radio signals into space to communicate with something.
+mr-mime,Psychic,Fairy,It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.
+scyther,Bug,Flying,The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.
+jynx,Ice,Psychic,"Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+electabuzz,Electric,,Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.
+magmar,Fire,,"The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokemon clearly."
+pinsir,Bug,,It grips prey with its powerful pincers and will not let go until the prey is torn in half.
+tauros,Normal,,"Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature."
+magikarp,Water,,"A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though."
+gyarados,Water,Flying,"Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm."
+lapras,Water,Ice,"Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back."
+ditto,Normal,,"It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes."
+eevee,Normal,,"Thanks to its unstable genetic makeup, this special Pokemon conceals many different possible evolutions."
+vaporeon,Water,,"Its cell composition is similar to water molecules. As a result, it cant be seen when it melts away into water."
+jolteon,Electric,,"By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles."
+flareon,Fire,,"Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F."
+porygon,Normal,,A man-made Pokemon created using advanced scientific means. It can move freely in cyberspace.
+omanyte,Rock,Water,A Pokemon that was resurrected from a fossil using modern science. It swam in ancient seas.
+omastar,Rock,Water,It is thought that this Pokemon became extinct because its spiral shell grew too large.
+kabuto,Rock,Water,It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.
+kabutops,Rock,Water,It is thought that this Pokemon came onto land because its prey adapted to life on land.
+aerodactyl,Rock,Flying,A Pokemon that roamed the skies in the dinosaur era. Its teeth are like saw blades.
+snorlax,Normal,,"When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly."
+articuno,Ice,Flying,A legendary bird Pokemon. It can create blizzards by freezing moisture in the air.
+zapdos,Electric,Flying,A legendary Pokemon that is said to live in thunderclouds. It freely controls lightning bolts.
+moltres,Fire,Flying,One of the legendary bird Pokemon. It is said that its appearance indicates the coming of spring.
+dratini,Dragon,,It is called the Mirage Pokemon because so few have seen it. Its shed skin has been found.
+dragonair,Dragon,,"If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+dragonite,Dragon,Flying,It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.
+mewtwo,Psychic,,A Pokemon created by recombining Mews genes. Its said to have the most savage heart among Pokmon.
+mew,Psychic,,"Mew is said to possess the genetic composition of all Pokemon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people."
+chikorita,Grass,,Description not available yet
+bayleef,Grass,,Description not available yet
+meganium,Grass,,Description not available yet
+cyndaquil,Fire,,Description not available yet
+quilava,Fire,,Description not available yet
+typhlosion,Fire,,Description not available yet
+totodile,Water,,Description not available yet
+croconaw,Water,,Description not available yet
+feraligatr,Water,,Description not available yet
+sentret,Normal,,Description not available yet
+furret,Normal,,Description not available yet
+hoothoot,Normal,Flying,Description not available yet
+noctowl,Normal,Flying,Description not available yet
+ledyba,Bug,Flying,Description not available yet
+ledian,Bug,Flying,Description not available yet
+spinarak,Bug,Poison,Description not available yet
+ariados,Bug,Poison,Description not available yet
+crobat,Poison,Flying,Description not available yet
+chinchou,Water,Electric,Description not available yet
+lanturn,Water,Electric,Description not available yet
+pichu,Electric,,Description not available yet
+cleffa,Fairy,,Description not available yet
+igglybuff,Normal,Fairy,Description not available yet
+togepi,Fairy,,Description not available yet
+togetic,Fairy,Flying,Description not available yet
+natu,Psychic,Flying,Description not available yet
+xatu,Psychic,Flying,Description not available yet
+mareep,Electric,,Description not available yet
+flaaffy,Electric,,Description not available yet
+ampharos,Electric,,Description not available yet
+bellossom,Grass,,Description not available yet
+marill,Water,Fairy,Description not available yet
+azumarill,Water,Fairy,Description not available yet
+sudowoodo,Rock,,Description not available yet
+politoed,Water,,Description not available yet
+hoppip,Grass,Flying,Description not available yet
+skiploom,Grass,Flying,Description not available yet
+jumpluff,Grass,Flying,Description not available yet
+aipom,Normal,,Description not available yet
+sunkern,Grass,,Description not available yet
+sunflora,Grass,,Description not available yet
+yanma,Bug,Flying,Description not available yet
+wooper,Water,Ground,Description not available yet
+quagsire,Water,Ground,Description not available yet
+espeon,Psychic,,Description not available yet
+umbreon,Dark,,Description not available yet
+murkrow,Dark,Flying,Description not available yet
+slowking,Water,Psychic,Description not available yet
+misdreavus,Ghost,,Description not available yet
+unown,Psychic,,Description not available yet
+wobbuffet,Psychic,,Description not available yet
+girafarig,Normal,Psychic,Description not available yet
+pineco,Bug,,Description not available yet
+forretress,Bug,Steel,Description not available yet
+dunsparce,Normal,,Description not available yet
+gligar,Ground,Flying,Description not available yet
+steelix,Steel,Ground,Description not available yet
+snubbull,Fairy,,Description not available yet
+granbull,Fairy,,Description not available yet
+qwilfish,Water,Poison,Description not available yet
+scizor,Bug,Steel,Description not available yet
+shuckle,Bug,Rock,Description not available yet
+heracross,Bug,Fighting,Description not available yet
+sneasel,Dark,Ice,Description not available yet
+teddiursa,Normal,,Description not available yet
+ursaring,Normal,,Description not available yet
+slugma,Fire,,Description not available yet
+magcargo,Fire,Rock,Description not available yet
+swinub,Ice,Ground,Description not available yet
+piloswine,Ice,Ground,Description not available yet
+corsola,Water,Rock,Description not available yet
+remoraid,Water,,Description not available yet
+octillery,Water,,Description not available yet
+delibird,Ice,Flying,Description not available yet
+mantine,Water,Flying,Description not available yet
+skarmory,Steel,Flying,Description not available yet
+houndour,Dark,Fire,Description not available yet
+houndoom,Dark,Fire,Description not available yet
+kingdra,Water,Dragon,Description not available yet
+phanpy,Ground,,Description not available yet
+donphan,Ground,,Description not available yet
+porygon2,Normal,,Description not available yet
+stantler,Normal,,Description not available yet
+smeargle,Normal,,Description not available yet
+tyrogue,Fighting,,Description not available yet
+hitmontop,Fighting,,Description not available yet
+smoochum,Ice,Psychic,Description not available yet
+elekid,Electric,,Description not available yet
+magby,Fire,,Description not available yet
+miltank,Normal,,Description not available yet
+blissey,Normal,,Description not available yet
+raikou,Electric,,Description not available yet
+entei,Fire,,Description not available yet
+suicune,Water,,Description not available yet
+larvitar,Rock,Ground,Description not available yet
+pupitar,Rock,Ground,Description not available yet
+tyranitar,Rock,Dark,Description not available yet
+lugia,Psychic,Flying,Description not available yet
+ho-oh,Fire,Flying,Description not available yet
+celebi,Psychic,Grass,Description not available yet
+treecko,Grass,,Description not available yet
+grovyle,Grass,,Description not available yet
+sceptile,Grass,,Description not available yet
+torchic,Fire,,Description not available yet
+combusken,Fire,Fighting,Description not available yet
+blaziken,Fire,Fighting,Description not available yet
+mudkip,Water,,Description not available yet
+marshtomp,Water,Ground,Description not available yet
+swampert,Water,Ground,Description not available yet
+poochyena,Dark,,Description not available yet
+mightyena,Dark,,Description not available yet
+zigzagoon,Normal,,Description not available yet
+linoone,Normal,,Description not available yet
+wurmple,Bug,,Description not available yet
+silcoon,Bug,,Description not available yet
+beautifly,Bug,Flying,Description not available yet
+cascoon,Bug,,Description not available yet
+dustox,Bug,Poison,Description not available yet
+lotad,Water,Grass,Description not available yet
+lombre,Water,Grass,Description not available yet
+ludicolo,Water,Grass,Description not available yet
+seedot,Grass,,Description not available yet
+nuzleaf,Grass,Dark,Description not available yet
+shiftry,Grass,Dark,Description not available yet
+taillow,Normal,Flying,Description not available yet
+swellow,Normal,Flying,Description not available yet
+wingull,Water,Flying,Description not available yet
+pelipper,Water,Flying,Description not available yet
+ralts,Psychic,Fairy,Description not available yet
+kirlia,Psychic,Fairy,Description not available yet
+gardevoir,Psychic,Fairy,Description not available yet
+surskit,Bug,Water,Description not available yet
+masquerain,Bug,Flying,Description not available yet
+shroomish,Grass,,Description not available yet
+breloom,Grass,Fighting,Description not available yet
+slakoth,Normal,,Description not available yet
+vigoroth,Normal,,Description not available yet
+slaking,Normal,,Description not available yet
+nincada,Bug,Ground,Description not available yet
+ninjask,Bug,Flying,Description not available yet
+shedinja,Bug,Ghost,Description not available yet
+whismur,Normal,,Description not available yet
+loudred,Normal,,Description not available yet
+exploud,Normal,,Description not available yet
+makuhita,Fighting,,Description not available yet
+hariyama,Fighting,,Description not available yet
+azurill,Normal,Fairy,Description not available yet
+nosepass,Rock,,Description not available yet
+skitty,Normal,,Description not available yet
+delcatty,Normal,,Description not available yet
+sableye,Dark,Ghost,Description not available yet
+mawile,Steel,Fairy,Description not available yet
+aron,Steel,Rock,Description not available yet
+lairon,Steel,Rock,Description not available yet
+aggron,Steel,Rock,Description not available yet
+meditite,Fighting,Psychic,Description not available yet
+medicham,Fighting,Psychic,Description not available yet
+electrike,Electric,,Description not available yet
+manectric,Electric,,Description not available yet
+plusle,Electric,,Description not available yet
+minun,Electric,,Description not available yet
+volbeat,Bug,,Description not available yet
+illumise,Bug,,Description not available yet
+roselia,Grass,Poison,Description not available yet
+gulpin,Poison,,Description not available yet
+swalot,Poison,,Description not available yet
+carvanha,Water,Dark,Description not available yet
+sharpedo,Water,Dark,Description not available yet
+wailmer,Water,,Description not available yet
+wailord,Water,,Description not available yet
+numel,Fire,Ground,Description not available yet
+camerupt,Fire,Ground,Description not available yet
+torkoal,Fire,,Description not available yet
+spoink,Psychic,,Description not available yet
+grumpig,Psychic,,Description not available yet
+spinda,Normal,,Description not available yet
+trapinch,Ground,,Description not available yet
+vibrava,Ground,Dragon,Description not available yet
+flygon,Ground,Dragon,Description not available yet
+cacnea,Grass,,Description not available yet
+cacturne,Grass,Dark,Description not available yet
+swablu,Normal,Flying,Description not available yet
+altaria,Dragon,Flying,Description not available yet
+zangoose,Normal,,Description not available yet
+seviper,Poison,,Description not available yet
+lunatone,Rock,Psychic,Description not available yet
+solrock,Rock,Psychic,Description not available yet
+barboach,Water,Ground,Description not available yet
+whiscash,Water,Ground,Description not available yet
+corphish,Water,,Description not available yet
+crawdaunt,Water,Dark,Description not available yet
+baltoy,Ground,Psychic,Description not available yet
+claydol,Ground,Psychic,Description not available yet
+lileep,Rock,Grass,Description not available yet
+cradily,Rock,Grass,Description not available yet
+anorith,Rock,Bug,Description not available yet
+armaldo,Rock,Bug,Description not available yet
+feebas,Water,,Description not available yet
+milotic,Water,,Description not available yet
+castform,Normal,,Description not available yet
+kecleon,Normal,,Description not available yet
+shuppet,Ghost,,Description not available yet
+banette,Ghost,,Description not available yet
+duskull,Ghost,,Description not available yet
+dusclops,Ghost,,Description not available yet
+tropius,Grass,Flying,Description not available yet
+chimecho,Psychic,,Description not available yet
+absol,Dark,,Description not available yet
+wynaut,Psychic,,Description not available yet
+snorunt,Ice,,Description not available yet
+glalie,Ice,,Description not available yet
+spheal,Ice,Water,Description not available yet
+sealeo,Ice,Water,Description not available yet
+walrein,Ice,Water,Description not available yet
+clamperl,Water,,Description not available yet
+huntail,Water,,Description not available yet
+gorebyss,Water,,Description not available yet
+relicanth,Water,Rock,Description not available yet
+luvdisc,Water,,Description not available yet
+bagon,Dragon,,Description not available yet
+shelgon,Dragon,,Description not available yet
+salamence,Dragon,Flying,Description not available yet
+beldum,Steel,Psychic,Description not available yet
+metang,Steel,Psychic,Description not available yet
+metagross,Steel,Psychic,Description not available yet
+regirock,Rock,,Description not available yet
+regice,Ice,,Description not available yet
+registeel,Steel,,Description not available yet
+latias,Dragon,Psychic,Description not available yet
+latios,Dragon,Psychic,Description not available yet
+kyogre,Water,,Description not available yet
+groudon,Ground,,Description not available yet
+rayquaza,Dragon,Flying,Description not available yet
+jirachi,Steel,Psychic,Description not available yet
+deoxys-normal,Psychic,,Description not available yet
+turtwig,Grass,,Description not available yet
+grotle,Grass,,Description not available yet
+torterra,Grass,Ground,Description not available yet
+chimchar,Fire,,Description not available yet
+monferno,Fire,Fighting,Description not available yet
+infernape,Fire,Fighting,Description not available yet
+piplup,Water,,Description not available yet
+prinplup,Water,,Description not available yet
+empoleon,Water,Steel,Description not available yet
+starly,Normal,Flying,Description not available yet
+staravia,Normal,Flying,Description not available yet
+staraptor,Normal,Flying,Description not available yet
+bidoof,Normal,,Description not available yet
+bibarel,Normal,Water,Description not available yet
+kricketot,Bug,,Description not available yet
+kricketune,Bug,,Description not available yet
+shinx,Electric,,Description not available yet
+luxio,Electric,,Description not available yet
+luxray,Electric,,Description not available yet
+budew,Grass,Poison,Description not available yet
+roserade,Grass,Poison,Description not available yet
+cranidos,Rock,,Description not available yet
+rampardos,Rock,,Description not available yet
+shieldon,Rock,Steel,Description not available yet
+bastiodon,Rock,Steel,Description not available yet
+burmy,Bug,,Description not available yet
+wormadam-plant,Bug,Grass,Description not available yet
+mothim,Bug,Flying,Description not available yet
+combee,Bug,Flying,Description not available yet
+vespiquen,Bug,Flying,Description not available yet
+pachirisu,Electric,,Description not available yet
+buizel,Water,,Description not available yet
+floatzel,Water,,Description not available yet
+cherubi,Grass,,Description not available yet
+cherrim,Grass,,Description not available yet
+shellos,Water,,Description not available yet
+gastrodon,Water,Ground,Description not available yet
+ambipom,Normal,,Description not available yet
+drifloon,Ghost,Flying,Description not available yet
+drifblim,Ghost,Flying,Description not available yet
+buneary,Normal,,Description not available yet
+lopunny,Normal,,Description not available yet
+mismagius,Ghost,,Description not available yet
+honchkrow,Dark,Flying,Description not available yet
+glameow,Normal,,Description not available yet
+purugly,Normal,,Description not available yet
+chingling,Psychic,,Description not available yet
+stunky,Poison,Dark,Description not available yet
+skuntank,Poison,Dark,Description not available yet
+bronzor,Steel,Psychic,Description not available yet
+bronzong,Steel,Psychic,Description not available yet
+bonsly,Rock,,Description not available yet
+mime-jr,Psychic,Fairy,Description not available yet
+happiny,Normal,,Description not available yet
+chatot,Normal,Flying,Description not available yet
+spiritomb,Ghost,Dark,Description not available yet
+gible,Dragon,Ground,Description not available yet
+gabite,Dragon,Ground,Description not available yet
+garchomp,Dragon,Ground,Description not available yet
+munchlax,Normal,,Description not available yet
+riolu,Fighting,,Description not available yet
+lucario,Fighting,Steel,Description not available yet
+hippopotas,Ground,,Description not available yet
+hippowdon,Ground,,Description not available yet
+skorupi,Poison,Bug,Description not available yet
+drapion,Poison,Dark,Description not available yet
+croagunk,Poison,Fighting,Description not available yet
+toxicroak,Poison,Fighting,Description not available yet
+carnivine,Grass,,Description not available yet
+finneon,Water,,Description not available yet
+lumineon,Water,,Description not available yet
+mantyke,Water,Flying,Description not available yet
+snover,Grass,Ice,Description not available yet
+abomasnow,Grass,Ice,Description not available yet
+weavile,Dark,Ice,Description not available yet
+magnezone,Electric,Steel,Description not available yet
+lickilicky,Normal,,Description not available yet
+rhyperior,Ground,Rock,Description not available yet
+tangrowth,Grass,,Description not available yet
+electivire,Electric,,Description not available yet
+magmortar,Fire,,Description not available yet
+togekiss,Fairy,Flying,Description not available yet
+yanmega,Bug,Flying,Description not available yet
+leafeon,Grass,,Description not available yet
+glaceon,Ice,,Description not available yet
+gliscor,Ground,Flying,Description not available yet
+mamoswine,Ice,Ground,Description not available yet
+porygon-z,Normal,,Description not available yet
+gallade,Psychic,Fighting,Description not available yet
+probopass,Rock,Steel,Description not available yet
+dusknoir,Ghost,,Description not available yet
+froslass,Ice,Ghost,Description not available yet
+rotom,Electric,Ghost,Description not available yet
+uxie,Psychic,,Description not available yet
+mesprit,Psychic,,Description not available yet
+azelf,Psychic,,Description not available yet
+dialga,Steel,Dragon,Description not available yet
+palkia,Water,Dragon,Description not available yet
+heatran,Fire,Steel,Description not available yet
+regigigas,Normal,,Description not available yet
+giratina-altered,Ghost,Dragon,Description not available yet
+cresselia,Psychic,,Description not available yet
+phione,Water,,Description not available yet
+manaphy,Water,,Description not available yet
+darkrai,Dark,,Description not available yet
+shaymin-land,Grass,,Description not available yet
+arceus,Normal,,Description not available yet
+victini,Psychic,Fire,Description not available yet
+snivy,Grass,,Description not available yet
+servine,Grass,,Description not available yet
+serperior,Grass,,Description not available yet
+tepig,Fire,,Description not available yet
+pignite,Fire,Fighting,Description not available yet
+emboar,Fire,Fighting,Description not available yet
+oshawott,Water,,Description not available yet
+dewott,Water,,Description not available yet
+samurott,Water,,Description not available yet
+patrat,Normal,,Description not available yet
+watchog,Normal,,Description not available yet
+lillipup,Normal,,Description not available yet
+herdier,Normal,,Description not available yet
+stoutland,Normal,,Description not available yet
+purrloin,Dark,,Description not available yet
+liepard,Dark,,Description not available yet
+pansage,Grass,,Description not available yet
+simisage,Grass,,Description not available yet
+pansear,Fire,,Description not available yet
+simisear,Fire,,Description not available yet
+panpour,Water,,Description not available yet
+simipour,Water,,Description not available yet
+munna,Psychic,,Description not available yet
+musharna,Psychic,,Description not available yet
+pidove,Normal,Flying,Description not available yet
+tranquill,Normal,Flying,Description not available yet
+unfezant,Normal,Flying,Description not available yet
+blitzle,Electric,,Description not available yet
+zebstrika,Electric,,Description not available yet
+roggenrola,Rock,,Description not available yet
+boldore,Rock,,Description not available yet
+gigalith,Rock,,Description not available yet
+woobat,Psychic,Flying,Description not available yet
+swoobat,Psychic,Flying,Description not available yet
+drilbur,Ground,,Description not available yet
+excadrill,Ground,Steel,Description not available yet
+audino,Normal,,Description not available yet
+timburr,Fighting,,Description not available yet
+gurdurr,Fighting,,Description not available yet
+conkeldurr,Fighting,,Description not available yet
+tympole,Water,,Description not available yet
+palpitoad,Water,Ground,Description not available yet
+seismitoad,Water,Ground,Description not available yet
+throh,Fighting,,Description not available yet
+sawk,Fighting,,Description not available yet
+sewaddle,Bug,Grass,Description not available yet
+swadloon,Bug,Grass,Description not available yet
+leavanny,Bug,Grass,Description not available yet
+venipede,Bug,Poison,Description not available yet
+whirlipede,Bug,Poison,Description not available yet
+scolipede,Bug,Poison,Description not available yet
+cottonee,Grass,Fairy,Description not available yet
+whimsicott,Grass,Fairy,Description not available yet
+petilil,Grass,,Description not available yet
+lilligant,Grass,,Description not available yet
+basculin-red-striped,Water,,Description not available yet
+sandile,Ground,Dark,Description not available yet
+krokorok,Ground,Dark,Description not available yet
+krookodile,Ground,Dark,Description not available yet
+darumaka,Fire,,Description not available yet
+darmanitan-standard,Fire,,Description not available yet
+maractus,Grass,,Description not available yet
+dwebble,Bug,Rock,Description not available yet
+crustle,Bug,Rock,Description not available yet
+scraggy,Dark,Fighting,Description not available yet
+scrafty,Dark,Fighting,Description not available yet
+sigilyph,Psychic,Flying,Description not available yet
+yamask,Ghost,,Description not available yet
+cofagrigus,Ghost,,Description not available yet
+tirtouga,Water,Rock,Description not available yet
+carracosta,Water,Rock,Description not available yet
+archen,Rock,Flying,Description not available yet
+archeops,Rock,Flying,Description not available yet
+trubbish,Poison,,Description not available yet
+garbodor,Poison,,Description not available yet
+zorua,Dark,,Description not available yet
+zoroark,Dark,,Description not available yet
+minccino,Normal,,Description not available yet
+cinccino,Normal,,Description not available yet
+gothita,Psychic,,Description not available yet
+gothorita,Psychic,,Description not available yet
+gothitelle,Psychic,,Description not available yet
+solosis,Psychic,,Description not available yet
+duosion,Psychic,,Description not available yet
+reuniclus,Psychic,,Description not available yet
+ducklett,Water,Flying,Description not available yet
+swanna,Water,Flying,Description not available yet
+vanillite,Ice,,Description not available yet
+vanillish,Ice,,Description not available yet
+vanilluxe,Ice,,Description not available yet
+deerling,Normal,Grass,Description not available yet
+sawsbuck,Normal,Grass,Description not available yet
+emolga,Electric,Flying,Description not available yet
+karrablast,Bug,,Description not available yet
+escavalier,Bug,Steel,Description not available yet
+foongus,Grass,Poison,Description not available yet
+amoonguss,Grass,Poison,Description not available yet
+frillish,Water,Ghost,Description not available yet
+jellicent,Water,Ghost,Description not available yet
+alomomola,Water,,Description not available yet
+joltik,Bug,Electric,Description not available yet
+galvantula,Bug,Electric,Description not available yet
+ferroseed,Grass,Steel,Description not available yet
+ferrothorn,Grass,Steel,Description not available yet
+klink,Steel,,Description not available yet
+klang,Steel,,Description not available yet
+klinklang,Steel,,Description not available yet
+tynamo,Electric,,Description not available yet
+eelektrik,Electric,,Description not available yet
+eelektross,Electric,,Description not available yet
+elgyem,Psychic,,Description not available yet
+beheeyem,Psychic,,Description not available yet
+litwick,Ghost,Fire,Description not available yet
+lampent,Ghost,Fire,Description not available yet
+chandelure,Ghost,Fire,Description not available yet
+axew,Dragon,,Description not available yet
+fraxure,Dragon,,Description not available yet
+haxorus,Dragon,,Description not available yet
+cubchoo,Ice,,Description not available yet
+beartic,Ice,,Description not available yet
+cryogonal,Ice,,Description not available yet
+shelmet,Bug,,Description not available yet
+accelgor,Bug,,Description not available yet
+stunfisk,Ground,Electric,Description not available yet
+mienfoo,Fighting,,Description not available yet
+mienshao,Fighting,,Description not available yet
+druddigon,Dragon,,Description not available yet
+golett,Ground,Ghost,Description not available yet
+golurk,Ground,Ghost,Description not available yet
+pawniard,Dark,Steel,Description not available yet
+bisharp,Dark,Steel,Description not available yet
+bouffalant,Normal,,Description not available yet
+rufflet,Normal,Flying,Description not available yet
+braviary,Normal,Flying,Description not available yet
+vullaby,Dark,Flying,Description not available yet
+mandibuzz,Dark,Flying,Description not available yet
+heatmor,Fire,,Description not available yet
+durant,Bug,Steel,Description not available yet
+deino,Dark,Dragon,Description not available yet
+zweilous,Dark,Dragon,Description not available yet
+hydreigon,Dark,Dragon,Description not available yet
+larvesta,Bug,Fire,Description not available yet
+volcarona,Bug,Fire,Description not available yet
+cobalion,Steel,Fighting,Description not available yet
+terrakion,Rock,Fighting,Description not available yet
+virizion,Grass,Fighting,Description not available yet
+tornadus-incarnate,Flying,,Description not available yet
+thundurus-incarnate,Electric,Flying,Description not available yet
+reshiram,Dragon,Fire,Description not available yet
+zekrom,Dragon,Electric,Description not available yet
+landorus-incarnate,Ground,Flying,Description not available yet
+kyurem,Dragon,Ice,Description not available yet
+keldeo-ordinary,Water,Fighting,Description not available yet
+meloetta-aria,Normal,Psychic,Description not available yet
+genesect,Bug,Steel,Description not available yet
+chespin,Grass,,Description not available yet
+quilladin,Grass,,Description not available yet
+chesnaught,Grass,Fighting,Description not available yet
+fennekin,Fire,,Description not available yet
+braixen,Fire,,Description not available yet
+delphox,Fire,Psychic,Description not available yet
+froakie,Water,,Description not available yet
+frogadier,Water,,Description not available yet
+greninja,Water,Dark,Description not available yet
+bunnelby,Normal,,Description not available yet
+diggersby,Normal,Ground,Description not available yet
+fletchling,Normal,Flying,Description not available yet
+fletchinder,Fire,Flying,Description not available yet
+talonflame,Fire,Flying,Description not available yet
+scatterbug,Bug,,Description not available yet
+spewpa,Bug,,Description not available yet
+vivillon,Bug,Flying,Description not available yet
+litleo,Fire,Normal,Description not available yet
+pyroar,Fire,Normal,Description not available yet
+flabebe,Fairy,,Description not available yet
+floette,Fairy,,Description not available yet
+florges,Fairy,,Description not available yet
+skiddo,Grass,,Description not available yet
+gogoat,Grass,,Description not available yet
+pancham,Fighting,,Description not available yet
+pangoro,Fighting,Dark,Description not available yet
+furfrou,Normal,,Description not available yet
+espurr,Psychic,,Description not available yet
+meowstic-male,Psychic,,Description not available yet
+honedge,Steel,Ghost,Description not available yet
+doublade,Steel,Ghost,Description not available yet
+aegislash-blade,Steel,Ghost,Description not available yet
+spritzee,Fairy,,Description not available yet
+aromatisse,Fairy,,Description not available yet
+swirlix,Fairy,,Description not available yet
+slurpuff,Fairy,,Description not available yet
+inkay,Dark,Psychic,Description not available yet
+malamar,Dark,Psychic,Description not available yet
+binacle,Rock,Water,Description not available yet
+barbaracle,Rock,Water,Description not available yet
+skrelp,Poison,Water,Description not available yet
+dragalge,Poison,Dragon,Description not available yet
+clauncher,Water,,Description not available yet
+clawitzer,Water,,Description not available yet
+helioptile,Electric,Normal,Description not available yet
+heliolisk,Electric,Normal,Description not available yet
+tyrunt,Rock,Dragon,Description not available yet
+tyrantrum,Rock,Dragon,Description not available yet
+amaura,Rock,Ice,Description not available yet
+aurorus,Rock,Ice,Description not available yet
+sylveon,Fairy,,Description not available yet
+hawlucha,Fighting,Flying,Description not available yet
+dedenne,Electric,Fairy,Description not available yet
+carbink,Rock,Fairy,Description not available yet
+goomy,Dragon,,Description not available yet
+sliggoo,Dragon,,Description not available yet
+goodra,Dragon,,Description not available yet
+klefki,Steel,Fairy,Description not available yet
+phantump,Ghost,Grass,Description not available yet
+trevenant,Ghost,Grass,Description not available yet
+pumpkaboo-average,Ghost,Grass,Description not available yet
+gourgeist-average,Ghost,Grass,Description not available yet
+bergmite,Ice,,Description not available yet
+avalugg,Ice,,Description not available yet
+noibat,Flying,Dragon,Description not available yet
+noivern,Flying,Dragon,Description not available yet
+xerneas,Fairy,,Description not available yet
+yveltal,Dark,Flying,Description not available yet
+zygarde-50,Dragon,Ground,Description not available yet
+diancie,Rock,Fairy,Description not available yet
+hoopa-confined,Psychic,Ghost,Description not available yet
+volcanion,Fire,Water,Description not available yet
+rowlet,Grass,Flying,Description not available yet
+dartrix,Grass,Flying,Description not available yet
+decidueye,Grass,Ghost,Description not available yet
+litten,Fire,,Description not available yet
+torracat,Fire,,Description not available yet
+incineroar,Fire,Dark,Description not available yet
+popplio,Water,,Description not available yet
+brionne,Water,,Description not available yet
+primarina,Water,Fairy,Description not available yet
+pikipek,Normal,Flying,Description not available yet
+trumbeak,Normal,Flying,Description not available yet
+toucannon,Normal,Flying,Description not available yet
+yungoos,Normal,,Description not available yet
+gumshoos,Normal,,Description not available yet
+grubbin,Bug,,Description not available yet
+charjabug,Bug,Electric,Description not available yet
+vikavolt,Bug,Electric,Description not available yet
+crabrawler,Fighting,,Description not available yet
+crabominable,Fighting,Ice,Description not available yet
+oricorio-baile,Fire,Flying,Description not available yet
+cutiefly,Bug,Fairy,Description not available yet
+ribombee,Bug,Fairy,Description not available yet
+rockruff,Rock,,Description not available yet
+lycanroc-midday,Rock,,Description not available yet
+wishiwashi-solo,Water,,Description not available yet
+mareanie,Poison,Water,Description not available yet
+toxapex,Poison,Water,Description not available yet
+mudbray,Ground,,Description not available yet
+mudsdale,Ground,,Description not available yet
+dewpider,Water,Bug,Description not available yet
+araquanid,Water,Bug,Description not available yet
+fomantis,Grass,,Description not available yet
+lurantis,Grass,,Description not available yet
+morelull,Grass,Fairy,Description not available yet
+shiinotic,Grass,Fairy,Description not available yet
+salandit,Poison,Fire,Description not available yet
+salazzle,Poison,Fire,Description not available yet
+stufful,Normal,Fighting,Description not available yet
+bewear,Normal,Fighting,Description not available yet
+bounsweet,Grass,,Description not available yet
+steenee,Grass,,Description not available yet
+tsareena,Grass,,Description not available yet
+comfey,Fairy,,Description not available yet
+oranguru,Normal,Psychic,Description not available yet
+passimian,Fighting,,Description not available yet
+wimpod,Bug,Water,Description not available yet
+golisopod,Bug,Water,Description not available yet
+sandygast,Ghost,Ground,Description not available yet
+palossand,Ghost,Ground,Description not available yet
+pyukumuku,Water,,Description not available yet
+type-null,Normal,,Description not available yet
+silvally,Normal,,Description not available yet
+minior-meteor,Rock,Flying,Description not available yet
+komala,Normal,,Description not available yet
+turtonator,Fire,Dragon,Description not available yet
+togedemaru,Electric,Steel,Description not available yet
+mimikyu,Ghost,Fairy,Description not available yet
+bruxish,Water,Psychic,Description not available yet
+drampa,Normal,Dragon,Description not available yet
+dhelmise,Ghost,Grass,Description not available yet
+jangmo-o,Dragon,,Description not available yet
+hakamo-o,Dragon,Fighting,Description not available yet
+kommo-o,Dragon,Fighting,Description not available yet
+tapu-koko,Electric,Fairy,Description not available yet
+tapu-lele,Psychic,Fairy,Description not available yet
+tapu-bulu,Grass,Fairy,Description not available yet
+tapu-fini,Water,Fairy,Description not available yet
+cosmog,Psychic,,Description not available yet
+cosmoem,Psychic,,Description not available yet
+solgaleo,Psychic,Steel,Description not available yet
+lunala,Psychic,Ghost,Description not available yet
+nihilego,Rock,Poison,Description not available yet
+buzzwole,Bug,Fighting,Description not available yet
+pheromosa,Bug,Fighting,Description not available yet
+xurkitree,Electric,,Description not available yet
+celesteela,Steel,Flying,Description not available yet
+kartana,Grass,Steel,Description not available yet
+guzzlord,Dark,Dragon,Description not available yet
+necrozma,Psychic,,Description not available yet
+magearna,Steel,Fairy,Description not available yet
+marshadow,Fighting,Ghost,Description not available yet
+poipole,Poison,,Description not available yet
+naganadel,Poison,Dragon,Description not available yet
+stakataka,Rock,Steel,Description not available yet
+blacephalon,Fire,Ghost,Description not available yet
+zeraora,Electric,,Description not available yet
+meltan,Steel,,Description not available yet
+melmetal,Steel,,Description not available yet
