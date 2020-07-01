@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.File;
+import java.io.InputStream;
 import java.util.List;
 
 @RestController()
@@ -33,9 +34,9 @@ public class PokemonController {
         }
 
         try {
-            File file = resourceLoader.getResource("classpath:pokemon.csv").getFile();
+            InputStream inputStream = new ClassPathResource("pokemon.csv").getInputStream();
 
-            List<Pokemon> pokemons = PokemonReader.readFile(file);
+            List<Pokemon> pokemons = PokemonReader.readFile(inputStream);
             for (Pokemon pokemon : pokemons) {
                 repository.save(pokemon);
             }
