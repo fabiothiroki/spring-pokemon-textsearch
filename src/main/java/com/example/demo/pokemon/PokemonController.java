@@ -6,9 +6,9 @@ import org.springframework.core.io.ResourceLoader;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.io.File;
 import java.io.InputStream;
 import java.util.List;
 
@@ -26,6 +26,12 @@ public class PokemonController {
     public Pokemon findById(@PathVariable("id") Long id) {
         return repository.findById(id).orElse(null);
     }
+
+    @GetMapping()
+    public List<Pokemon> findByDescription(@RequestParam String search) {
+        return repository.search(search);
+    }
+
 
     @RequestMapping("/migrate")
     String migrate() {
