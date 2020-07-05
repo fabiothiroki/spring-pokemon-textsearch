@@ -3,6 +3,7 @@ package com.example.demo.pokemon;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.ResourceLoader;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -27,6 +28,7 @@ public class PokemonController {
         return repository.findById(id).orElse(null);
     }
 
+    @CrossOrigin(origins = "http://localhost:3000")
     @GetMapping()
     public List<Pokemon> findByDescription(@RequestParam String search) {
         return repository.search(search);
