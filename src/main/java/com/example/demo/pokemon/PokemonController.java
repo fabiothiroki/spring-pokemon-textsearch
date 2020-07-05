@@ -28,7 +28,7 @@ public class PokemonController {
         return repository.findById(id).orElse(null);
     }
 
-    @CrossOrigin(origins = "http://localhost:3000")
+    @CrossOrigin(origins = {"http://localhost:3000", "https://kw3j7.csb.app"})
     @GetMapping()
     public List<Pokemon> findByDescription(@RequestParam String search) {
         return repository.search(search);
