@@ -4,12 +4,14 @@
 
 ## Local development
 
-## Setup Postgresql
+### Setup Postgresql
 ```bash
 docker-compose up
 ```
 
-## Build the project:
+### Run the project:
 ```bash
-./gradlew clean assemble
+./gradlew bootRun
 ```
+
+Access Swagger documentation on [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
