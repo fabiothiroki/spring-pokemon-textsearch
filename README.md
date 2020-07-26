@@ -2,14 +2,20 @@
 
 ![Java CI with Gradle](https://github.com/fabiothiroki/spring-pokemon-textsearch/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=master)
 
-## Local development
+An API that supports full text search based on pokemon description.
 
-### Setup Postgresql
+Full tutorial for building this repository from scratch: [Setup Spring and Postgres for Full Text Search](https://dev.to/fabiothiroki/setup-spring-and-postgres-for-full-text-search-4n97)
+
+## 💻 Local development
+
+### 💽 Setup Postgresql
+
 ```bash
 docker-compose up
 ```
 
-### Run the project:
+### 🏃 Run the project:
+
 ```bash
 ./gradlew bootRun
 ```
