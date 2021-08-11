@@ -3,12 +3,9 @@ package com.example.demo.pokemon;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.ResourceLoader;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.web.PageableDefault;
+import org.springframework.web.bind.annotation.*;
 
 import java.io.InputStream;
 import java.util.List;
@@ -34,6 +31,11 @@ public class PokemonController {
         return repository.search(search);
     }
 
+    @CrossOrigin
+    @GetMapping(value = "/all")
+    public List<Pokemon> findAll(@PageableDefault() Pageable pageable) {
+        return repository.findAll(pageable).getContent();
+    }
 
     @RequestMapping("/migrate")
     String migrate() {
